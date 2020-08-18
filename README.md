@@ -18,7 +18,7 @@ Versao 1.0
  <li>Python n-3.8.2 +</li>
 </ol>
 
-<b>Ide usada</b>
+<b>Ide usada</b><br>
 PyCharm Community Edition 2020.1 x64
 
 <b>Biblioteca</b>
